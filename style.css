@@ -1,4 +1,9 @@
 h1{
     font-family: sans-serif;
     font-size: large;
+    font: 1em sans-serif;
+}
+
+body {
+    background-color: darkgray;
 }
