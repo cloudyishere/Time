@@ -4,7 +4,6 @@ let year = 2024;
 let hour;
 let minute;
 let second;
-const date = document.getElementById('time');
+let date = document.getElementById('time');
 date = {month,  day,  year};
-date;
 
