@@ -4,5 +4,6 @@ let year = 2024;
 let hour;
 let minute;
 let second;
-let date = document.write(month,"/", day,"/", year);
-date = document.getElementById('time');
+let date = document.getElementById('time');
+date = document.write(month, "/", day, "/", year);
+
