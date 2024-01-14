@@ -6,4 +6,5 @@ let minute;
 let second;
 const date = document.getElementById('time');
 date = {month,  day,  year};
+date;
 
