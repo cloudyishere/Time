@@ -4,4 +4,4 @@ let year = 2024;
 let hour;
 let minute;
 let second;
-document.getElementById('time').write(month,'/',day, '/', year)
+document.getElementById('time') = month,"/", day,"/", year;
